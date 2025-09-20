@@ -1,0 +1,103 @@
+{
+    "2407011": [
+        {
+            "course": "1",
+            "credits": 3,
+            "grade": "A",
+            "points": 12.0,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:14:34"
+        },
+        {
+            "course": "2",
+            "credits": 3,
+            "grade": "A",
+            "points": 12.0,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:14:38"
+        },
+        {
+            "course": "3",
+            "credits": 3,
+            "grade": "B",
+            "points": 9.0,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:14:45"
+        },
+        {
+            "course": "4",
+            "credits": 3,
+            "grade": "F",
+            "points": 0.0,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:14:59"
+        },
+        {
+            "course": "e",
+            "credits": 3,
+            "grade": "A",
+            "points": 12.0,
+            "semester": "Semester 2",
+            "added_date": "2025-09-20 14:15:18"
+        },
+        {
+            "course": "w",
+            "credits": 3,
+            "grade": "B",
+            "points": 9.0,
+            "semester": "Semester 2",
+            "added_date": "2025-09-20 14:15:31"
+        },
+        {
+            "course": "r",
+            "credits": 3,
+            "grade": "B-",
+            "points": 8.100000000000001,
+            "semester": "Semester 2",
+            "added_date": "2025-09-20 14:15:45"
+        },
+        {
+            "course": "t",
+            "credits": 3,
+            "grade": "F",
+            "points": 0.0,
+            "semester": "Semester 2",
+            "added_date": "2025-09-20 14:15:58"
+        }
+    ],
+    "guest": [
+        {
+            "course": "1",
+            "credits": 3,
+            "grade": "A",
+            "points": 12.0,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:29:14"
+        },
+        {
+            "course": "2",
+            "credits": 3,
+            "grade": "A-",
+            "points": 11.100000000000001,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:29:22"
+        },
+        {
+            "course": "e",
+            "credits": 3,
+            "grade": "A",
+            "points": 12.0,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:30:15"
+        },
+        {
+            "course": "r",
+            "credits": 3,
+            "grade": "F",
+            "points": 0.0,
+            "semester": "Semester 1",
+            "added_date": "2025-09-20 14:30:25"
+        }
+    ],
+    "2407012": []
+}
